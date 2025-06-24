@@ -1,4 +1,9 @@
 body {
-    background: url(https://unsplash.com/fr/photos/chien-brun-portant-des-lunettes-de-soleil-sur-textile-bleu-zBsXaPEBSeI);
+    background-color: aqua;
     color: darkred;
+}
+
+img {
+    height: 500px;
+    width: 500px;
 }
